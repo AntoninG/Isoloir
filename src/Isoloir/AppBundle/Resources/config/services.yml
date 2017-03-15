@@ -1,0 +1,4 @@
+services:
+#    isoloir_app.example:
+#        class: Isoloir\AppBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

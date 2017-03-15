@@ -1,0 +1,10 @@
+isoloir_app:
+    resource: "@IsoloirAppBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+isoloir_security:
+    resource: "@IsoloirSecurityBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

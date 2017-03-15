@@ -1,0 +1,4 @@
+services:
+#    isoloir_security.example:
+#        class: Isoloir\SecurityBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
